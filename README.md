@@ -55,7 +55,8 @@ Telegram: @mrsky1001
 ___
 
 ### 🌱 My site https://foma-blog.ru
-[screencast-foma-blog.ru-2023.07.22-18_46_24.webm](https://github.com/mrsky1001/mrsky1001/assets/14128175/ae9bf084-cde6-4a28-939c-b06b8be3baa9)
+![screencast-foma-blog ru-2023 07 22-20_05_47-_online-video-cutter com_-_1_ (1)](https://github.com/mrsky1001/mrsky1001/assets/14128175/942b25c8-7540-4add-9aa9-ebd9c5dcafc4)
+
 
 
 ### ⚡ Statistics
