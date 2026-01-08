@@ -60,7 +60,7 @@ Open to **remote work** and **future relocation opportunities**.
 
 ### AI & Prompt Engineering
 <div>
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/openai.svg" title="Prompt Engineering" width="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/openai.svg" title="Prompt Engineering" width="40"/>&nbsp;
 </div>
 
 - Prompt Engineering for software development  
