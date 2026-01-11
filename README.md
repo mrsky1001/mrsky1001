@@ -84,14 +84,17 @@ Open to **remote work** and **future relocation opportunities**.
 
 ---
 
-### ⚡ GitHub Statistics
-<div align="center">
+### 🌱 My site https://foma-blog.ru
+![screencast-foma-blog ru-2023 07 22-20_05_47-_online-video-cutter com_-_1_ (1)](https://github.com/mrsky1001/mrsky1001/assets/14128175/942b25c8-7540-4add-9aa9-ebd9c5dcafc4)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mrsky1001&theme=github)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mrsky1001&theme=github)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mrsky1001&theme=github)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mrsky1001&theme=github)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mrsky1001&theme=github)
 
+### ⚡ Statistics
+
+<div  align="center">
+
+  ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mrsky1001&theme=github)  
+  ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mrsky1001&theme=github) ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mrsky1001&theme=github)
+
+  ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mrsky1001&theme=github)  ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mrsky1001&theme=github)
 </div>
