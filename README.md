@@ -80,12 +80,13 @@ Open to **remote work** and **future relocation opportunities**.
 ### 📫 Contacts
 - Email: mrsky1001.work@gmail.com  
 - Telegram: @mrsky1001  
-- Website: https://foma-blog.ru  
+- Website: https://foma-creative.com
 
 ---
 
 ### 🌱 My site https://foma-creative.ru
-![screen](https://github.com/user-attachments/assets/6186b7d3-546d-4c20-9e95-c836a6cc4002)
+
+![chrome_FusHMFlFA0](https://github.com/user-attachments/assets/6186b7d3-546d-4c20-9e95-c836a6cc4002)
 
 
 
