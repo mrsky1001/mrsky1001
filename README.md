@@ -84,7 +84,7 @@ Open to **remote work** and **future relocation opportunities**.
 
 ---
 
-### 🌱 My site https://foma-blog.ru
+### 🌱 My site https://foma-creative.ru
 ![screen](https://github.com/user-attachments/assets/6186b7d3-546d-4c20-9e95-c836a6cc4002)
 
 
