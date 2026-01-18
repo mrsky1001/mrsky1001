@@ -85,7 +85,8 @@ Open to **remote work** and **future relocation opportunities**.
 ---
 
 ### 🌱 My site https://foma-blog.ru
-![screencast-foma-blog ru-2023 07 22-20_05_47-_online-video-cutter com_-_1_ (1)](https://github.com/mrsky1001/mrsky1001/assets/14128175/942b25c8-7540-4add-9aa9-ebd9c5dcafc4)
+![screen](https://github.com/user-attachments/assets/6186b7d3-546d-4c20-9e95-c836a6cc4002)
+
 
 
 
